@@ -1,5 +1,5 @@
 ﻿/******************************************************************************
-* Filename    = NonAcRooms.cs
+* Filename    = HotelManager.cs
 *
 * Author      = Manikanta Gudipudi
 *
