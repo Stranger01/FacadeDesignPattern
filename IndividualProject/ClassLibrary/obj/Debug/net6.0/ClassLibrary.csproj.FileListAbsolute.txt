@@ -1,0 +1,4 @@
+C:\Users\manikanta\source\repos\IndividualProject\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manikanta\source\repos\IndividualProject\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\manikanta\source\repos\IndividualProject\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\manikanta\source\repos\IndividualProject\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
